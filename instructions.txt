@@ -1,0 +1,16 @@
+Set-up Instructions
+
+
+1. git init
+2. npm init -y
+3. npm install
+4. create .gitignore
+  add:
+    node_modules/
+    .DS_Store
+    dist/
+5. import and export code ex. import { PeanutButter } from './peanut-butter.js'
+6. add title to webpack.config and add description to package.json
+7. npm run lint (to check lint)
+8. npm test (to test jest)
+9. add instructions.txt to gitignore
