@@ -13,5 +13,5 @@ export class Beer {
       search = "abv_lt=15&abv_gt=7";
     }
     return search;
-  };
-  };
+  }
+}
